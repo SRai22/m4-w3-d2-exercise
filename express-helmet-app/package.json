@@ -1,0 +1,24 @@
+{
+  "name": "express-helmet-app",
+  "version": "1.0.0",
+  "description": "Helmet with Express ",
+  "homepage": "https://github.com/SRai2/m4-w3-d2-exercise#readme",
+  "bugs": {
+    "url": "https://github.com/SRai2/m4-w3-d2-exercise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRai2/m4-w3-d2-exercise.git"
+  },
+  "license": "MIT",
+  "author": "Shravan S Rai",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  }
+}
